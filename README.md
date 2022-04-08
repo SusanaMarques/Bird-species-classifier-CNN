@@ -8,4 +8,4 @@
 - Genetic Algorithms (GA) for learning model hyper parameter optimization, structure
 optimization and loss function optimization. 
 
-[Report can be found here (portuguese](https://github.com/SusanaMarques/Bird-species-classifier-CNN-/blob/main/Bird%20species%20classifier%20(CNN).pdf) 
+[Report can be found here (portuguese)](https://github.com/SusanaMarques/Bird-species-classifier-CNN-/blob/main/Bird%20species%20classifier%20(CNN).pdf) 
